@@ -1,6 +1,1 @@
-
-
-
-
-
-
+1. Within a Github action that runs whenever code is published, since running automated test in Github action means whenever code is pushed, tests are automatically verified with changes and checks if something breaks.
